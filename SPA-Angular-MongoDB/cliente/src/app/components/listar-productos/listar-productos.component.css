@@ -1,0 +1,11 @@
+.fa-solid {
+    cursor: pointer;
+    margin-left: 7px;
+}
+
+.list-products {
+    overflow-x: hidden;
+    width: 1000px;
+    float: right;
+    align-content: center;
+}
